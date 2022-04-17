@@ -1,0 +1,14 @@
+{
+  "role" : {
+    "name" : "external_privileges_role",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "SELECT",
+          "INSERT",
+          "DELETE"
+        ]
+      }
+    ]
+  }
+}

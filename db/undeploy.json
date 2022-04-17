@@ -1,0 +1,9 @@
+[
+  "src/gen/**/*.hdbview",
+  "src/gen/**/*.hdbindex",
+  "src/gen/**/*.hdbconstraint",
+  "src/gen/*.hdbview",
+  "src/gen/*.hdbtable",
+  "src/gen/SampleMgrV4Service.EmpJob.hdbview",
+  "src/gen/EmpJob.hdbtable"
+]
